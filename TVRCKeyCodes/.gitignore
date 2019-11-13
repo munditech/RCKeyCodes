@@ -1,3 +1,4 @@
-TVRCKeyCodes/build/
-TVRCKeyCodes/release/
-TVRCKeyCodes/debug/
+/build
+/release
+/debug
+
