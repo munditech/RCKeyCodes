@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RCKeyCodes.iml" filepath="$PROJECT_DIR$/.idea/modules/RCKeyCodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TVRCKeyCodes/RCKeyCodes.TVRCKeyCodes.iml" filepath="$PROJECT_DIR$/.idea/modules/TVRCKeyCodes/RCKeyCodes.TVRCKeyCodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TVRCKeyCodes-kt/RCKeyCodes.TVRCKeyCodes-kt.iml" filepath="$PROJECT_DIR$/.idea/modules/TVRCKeyCodes-kt/RCKeyCodes.TVRCKeyCodes-kt.iml" />
+    </modules>
+  </component>
+</project>

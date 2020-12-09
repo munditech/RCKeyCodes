@@ -1,2 +1,3 @@
 include ':TVRCKeyCodes'
+include ':TVRCKeyCodes-kt'
 rootProject.name='RCKeyCodes'
